@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Maor Shriki</h1>
-<h3>Third year computer science student at IDC Herzliya. Technologically adept, with a strong foundation in math and various programming languages. Has a positive attitude and eager to expand my programming knowledge.</h3>
+<h1 align="center">Hi 👋, I'm Elky Sandor</h1>
+<h3>header</h3>
 
 - 🌱 I’m currently improves my ability as a **full stack developer and data scientist**
 
-- 📫 How to reach me :  **maor92272@gmail.com**
+- 📫 How to reach me :  **elkysaren@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
