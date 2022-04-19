@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elky Sandor</h1>
 
-<h3>Third year math, atatistics & data science student at hebrew university. Technologically adept, with a strong foundation in math and various programming languages. Has a positive attitude and eager to expand my programming knowledge.</h3>
+<h3>Third year math, statistics & data science student at Hebrew university. Technologically adept, with a strong foundation in math and various programming languages. Has a positive attitude and eager to expand my programming knowledge</h3>
 
 - 🌱 I’m currently improves my ability as a **data scientist**
 
