@@ -2,7 +2,7 @@
 
 <h3>Third year math, statistics & data science student at Hebrew university. Technologically adept, with a strong foundation in math and various programming languages. Has a positive attitude and eager to expand my programming knowledge</h3>
 
-- 🌱 I’m currently improves my ability as a **data scientist**
+- 🌱 I’m currently improving my ability as a **data scientist**
 
 - 📫 How to reach me :  **elkysaren@gmail.com**
 
